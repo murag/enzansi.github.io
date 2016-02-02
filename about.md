@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+チーム「演算子にスペース入れる派」によるブログです。
+チームメンバーは５人。
 
-### More Information
+ブログ記事の詳細はまだ未定です。
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+続けていければいいな・・・！
 
-[email@domain.com](mailto:email@domain.com)
